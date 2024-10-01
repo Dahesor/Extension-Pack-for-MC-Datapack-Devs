@@ -1,0 +1,33 @@
+{
+    "name": "datapack-extension-pack",
+    "displayName": "Extension Pack for MC Datapack Devs",
+    "description": "Everything you need for the development of vanilla Minecraft: Java Edition projects",
+    "publisher": "dahesor",
+    "icon": "",
+    "readme": "README.md",
+    "author": {
+      "name": "Dahesor"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "mcfunction",
+        "minecraft",
+        "datapack",
+        "mc"
+      ],
+    "extensionPack": [
+        "spgoding.datapack-language-server",
+        "minecraftcommands.syntax-mcfunction",
+        "misodee.vscode-mcdoc",
+        "misodee.vscode-nbt",
+        "chencmd.mc-datapack-utility",
+        "slevesque.shader"
+    ]
+}
