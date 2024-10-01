@@ -29,5 +29,9 @@
         "misodee.vscode-nbt",
         "chencmd.mc-datapack-utility",
         "slevesque.shader"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dahesor/Extension-Pack-for-MC-Datapack-Devs"
+    }
 }
