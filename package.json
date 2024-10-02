@@ -2,8 +2,8 @@
     "name": "datapack-extension-pack",
     "displayName": "Extension Pack for MC Datapack Devs",
     "description": "Everything you need for the development of vanilla Minecraft: Java Edition projects",
-    "publisher": "dahesor",
-    "icon": "",
+    "publisher": "Dahesor",
+    "icon": "icon.png",
     "readme": "README.md",
     "author": {
       "name": "Dahesor"
