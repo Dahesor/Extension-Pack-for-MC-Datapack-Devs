@@ -34,6 +34,6 @@ Datapack Helper Plus now allows you customize NBT auto-completion by writing a `
 
 The creator of this extension pack is not necessarily involved in the development of any of the extensions included. If you have an issue with a particular extension, please visit them instead.
 
-If you have any issue or suggestions related to this extension pack, please submit an issue in the githun repository.
+If you have any issue or suggestions related to this extension pack, please submit an issue in the github repository.
 
 Happy coding.
